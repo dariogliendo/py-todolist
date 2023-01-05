@@ -1,7 +1,4 @@
 import pickle
-import msvcrt
-import threading
-import sys
 
 def enumerate_list(list):
   if len(list) == 0:
